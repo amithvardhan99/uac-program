@@ -1,0 +1,3 @@
+Target,Best_Model,Best_MAE,Best_RMSE,Best_MAPE,Forecast_Accuracy_Pct,Surge_Lead_Time_Days,Notes
+HHS_Care,ExpSmoothing,3047.11,3129.37,133.53,0,14,Lower MAE/RMSE is better. Accuracy % = 100 - MAPE.
+Discharged_From_HHS,ExpSmoothing,131.71,132.1,1667.27,0,14,Lower MAE/RMSE is better. Accuracy % = 100 - MAPE.
